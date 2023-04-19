@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgb(89, 199, 61);
+   width: ;
+   height: 50px;
+   padding: 10px;
+   margin: 10px;
+   box-sizing: content-box;
+
+}
+
+nav {
+    background-color: rgb(15, 139, 10);
+}
