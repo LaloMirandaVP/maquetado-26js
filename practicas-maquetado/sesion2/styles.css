@@ -9,7 +9,7 @@ body {
 
 header {
     background-color: rgb(89, 199, 61);
-   width: ;
+   width: 180vw;
    height: 50px;
    padding: 10px;
    margin: 10px;
@@ -19,4 +19,58 @@ header {
 
 nav {
     background-color: rgb(15, 139, 10);
+    width: 180vw;
+    height: 20px;
+    margin: 10px;
+    padding: 5px
+        
+
 }
+
+.aside1{
+    background-color: orange;
+    width: 200px;
+    height: 300px;
+    margin-left: 10px;
+    margin-right: 30px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.aside2{
+    background-color: orange;
+    width: 200px;
+    height: 300px;
+    margin-left: 600px;
+    margin-right: 30px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+main {
+    background-color: rgb(206, 104, 121);
+    width: 300px;
+    height: 300px;
+    margin-left: 250px;
+    margin-right: 30px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+article {
+    background-color: rgb(255, 255, 255);
+    width: 250px;
+    height: 40px;
+    margin: 10px;
+    padding: 5px
+}
+
+footer {
+    background-color: rgb(172, 131, 211);
+    width: 180vw;
+    height: 70px;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    box-sizing: content-box;
+ }
